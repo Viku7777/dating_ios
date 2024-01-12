@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631822237908",
+    "project_id": "dating-14bab",
+    "storage_bucket": "dating-14bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631822237908:android:fa932fbd6b142308327b41",
+        "android_client_info": {
+          "package_name": "com.vixh.dating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRJQaFEAIxi87ius-r47Rl94Hrd_67xhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
